@@ -1,0 +1,7 @@
+# Node.js
+node_modules/
+.env
+
+# macOS or Windows system junk
+.DS_Store
+Thumbs.db
